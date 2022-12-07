@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+canvas {
+  border: 1px solid grey;
+  border-radius: 5px;
+  border: none;
+}
+img {
+  display: none;
+}
+#bomb {
+}
+
+#btn {
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+  background-color: greenyellow;
+  transition: all 0.2s ease-in-out;
+}
+#btn:hover {
+  margin-top: 2.5px;
+  height: 35px;
+  width: 90px;
+  background-color: rgb(139, 216, 24);
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
